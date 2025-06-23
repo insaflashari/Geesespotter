@@ -29,6 +29,7 @@ A command-line logic game inspired by Minesweeper — but with geese instead of 
 
 ## Sample Output
 
+```
 Welcome to GeeseSpotter!
 Please enter the x dimension (max 60): 5
 Please enter the y dimension (max 20): 5
@@ -38,6 +39,7 @@ Please enter the number of geese: 3
 *****
 *****
 *****
+
 Please enter the action ([S]how, [M]ark, [R]estart, [Q]uit): s
 Please enter the x location to show: 1
 Please enter the y location to show: 1
@@ -46,8 +48,11 @@ Please enter the y location to show: 1
 *****
 *****
 *****
+```
+
 
 📁 File Structure
+
 ----main.cpp: Entry point and main game loop
 
 ----geesespotter_lib.cpp/h: Game setup, masks, and utility logic
