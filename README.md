@@ -39,7 +39,6 @@ Please enter the number of geese: 3
 *****
 *****
 *****
-
 Please enter the action ([S]how, [M]ark, [R]estart, [Q]uit): s
 Please enter the x location to show: 1
 Please enter the y location to show: 1
